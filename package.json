@@ -3,23 +3,17 @@
   "version": "1.0.0",
   "description": "A collection of monsters.",
   "main": "index.js",
-  "scripts": {
-    "test": "make test"
-  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jimkang/monsters
-.git"
+    "url": "git@github.com:jimkang/monsters.git"
   },
   "keywords": [],
   "author": "Jim Kang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimkang/monsters
-/issues"
+    "url": "https://github.com/jimkang/monsters/issues"
   },
-  "homepage": "https://github.com/jimkang/monsters
-",
+  "homepage": "https://github.com/jimkang/monsters",
   "dependencies": {
     "jsonfile": "^2.0.0"
   }
